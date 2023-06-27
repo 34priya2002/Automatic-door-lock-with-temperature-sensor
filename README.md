@@ -12,6 +12,6 @@ components:
 8.Relay BC547
 Bluetooth module
 Further development:
-contact less temperature sensor(MLX90614)
-Mask detector
-Developing an app to receive data
+contact less temperature sensor(MLX90614),
+Mask detector,
+Developing an app to receive data.
